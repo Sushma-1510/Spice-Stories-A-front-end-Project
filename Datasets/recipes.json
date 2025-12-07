@@ -61140,18 +61140,6 @@
       "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/nithya.anantham/Thotakura_Vepudu_Recipe_Andhra_Style_Amaranth_Greens_Stir_Fry.jpg"
     },
     {
-      "id": "bf45",
-      "name": "sushma",
-      "image": "https://via.placeholder.com/600x400",
-      "category": "South Indian",
-      "ingredients": [
-        "Hello"
-      ],
-      "steps": [
-        "Hii"
-      ]
-    },
-    {
       "id": "27bb",
       "name": "Fried Rice",
       "image": "https://shwetainthekitchen.com/wp-content/uploads/2023/06/veg-fried-rice.jpg",
@@ -61164,21 +61152,9 @@
       ]
     },
     {
-      "id": "50bd",
-      "name": "Sai",
-      "image": "https://via.placeholder.com/600x400",
-      "category": "Desserts",
-      "ingredients": [
-        "hello"
-      ],
-      "steps": [
-        "Hii"
-      ]
-    },
-    {
       "id": "4cc4",
       "name": "masala dosa",
-      "image": "https://via.placeholder.com/600x400",
+      "image": "https://palatesdesire.com/wp-content/uploads/2022/09/Mysore-masala-dosa-recipe@palates-desire-500x500.jpg",
       "category": "South Indian",
       "ingredients": [
         "dosa batter"
